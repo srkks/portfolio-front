@@ -1,5 +1,5 @@
 module.exports = {
   lintOnSave: false,
-  publicPath: "portfolio-vue",
+  publicPath: "/portfolio-vue/",
   outputDir: "docs"
 };
